@@ -117,5 +117,6 @@ make
 ```
 
 ---
-📄 For more details, see the [Set Lang Specification (PDF)](SetLang.pdf).
+📄 For more details, see the [Set Lang Specification (PDF)](SetLang.pdf)
+
 This compiler was developed as part of a *Compilation course* in the *Bachelor's degree in Software Engineering*.
