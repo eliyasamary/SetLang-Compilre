@@ -95,8 +95,8 @@ output "Companies that sell Hardware but not Gaming Software:" hardware - (softw
 ## 🚀 Steps
 ### 1: Clone repository
 ```
-git clone https://github.com/<your-username>/set-lang-compiler.git
-cd set-lang-compiler
+git clone https://github.com/eliyasamary/SetLang-Compilre
+cd SetLang-Compilre
 ```
 ### 2: Clean
 ```
